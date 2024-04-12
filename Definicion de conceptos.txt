@@ -1,0 +1,99 @@
+Definicion de conceptos:
+
+Git push:
+	(Definicion propia)
+	Sirve para pasar de manera local a la base de datos remota el archivo o archivos que queremos.
+	(Definicion formal)
+	Se utiliza para comunicar con otro repositorio, calcular lo que tu base de datos local tiene que la remota no tiene, y luego subir (push) la diferencia 
+	al otro repositorio. 
+
+Git pull:
+	(Definicion propia)
+	Se usa para descargar de la base de datos algo para que se actualize el archivo local con el remoto.
+	(Definicion formal)
+	Se emplea para extraer y descargar contenido desde un repositorio remoto y actualizar al instante el repositorio local para reflejar ese contenido.
+
+Git branch:
+	(Definicion propia)
+	Sirve para crear una rama nueva en el proyecto.
+	(Definicion formal)
+	El comando Git branch sirve para crear una rama nueva.
+
+Git checkout:
+	(Definicion propia)
+	Permite moverte en las ramas creadas por git branch.
+	(Definicion formal)
+	Te permite desplazarte entre las ramas creadas por git branch.
+
+Git fork:
+	(Definicion propia)
+	No es un comando nativo de git.Sin embargo,"forkear" es un termino comunmente utilizado en plataformas de alojamiento de reposotorios de github.
+	(Definicion formal)
+	Es simplemente una copia del repositorio donde puedes escribir, haciendo públicos tus propios cambios, como una manera abierta de participación.
+
+Git merge:
+	(Definicion propia)
+	Comando utilizado en git para fusionar los cambios de una rama en otra rama.Cuando trabajas proyectos con ramificaciones.
+	(Definicion formal)
+	Se utiliza para fusionar uno o más ramas dentro de la rama que tienes activa.
+
+QA:
+	(Definicion propia)
+	Es el proceso que se encarga de verificar como esta la integridad del software en calidad.
+	(Definicion formal)
+	QA son las siglas en inglés de Quality Assurance (seguro de calidad),  tiene como objetivo principal probar las soluciones tecnológicas y asegurarse de su 
+	adecuado funcionamiento. Lleva a cabo procedimientos específicos de prueba para identificar en qué lugar se está cometiendo un fallo y proponer una posible solución.
+
+Testing o pruebas:
+	(Definicion propia)	
+	Pertenece a una actividad o etapa del proceso de producción de software denominada Verificación y Validación.
+	(Definicion formal)
+	Son los procesos que se llevan para seber si un software cumple con las especificaciones y es capaz de satisfacer las necesiadades del usuario.
+
+Debugging o Depuración:
+	(Definicion propia)
+	Es la forma en la que un desarrollador busca problemas y errores dentro de un software para poder solucionarlos posteriormente.
+	(Definicion formal)
+	También llamado como debugging – o en español depuración -, es el nombre que se le da al proceso de encontrar y eliminar los errores que pueden cometer 
+	softwares y hardwares. 
+	El término hace parte del proceso de desarrollo desde el inicio, y hay algunos que afirman que este incluso fue creado antes del propio desarrollo web.
+
+Metodologías de proyectos:
+	(Definicion propia)
+	Son las formas en la que se pueden llevar acabo proyectos de gran magnitud.
+	(Definicion formal)
+	La metodología de un proyecto es un conjunto estructurado de procesos, técnicas y herramientas que se utilizan para planificar, ejecutar y controlar el 
+	desarrollo de un proyecto desde su inicio hasta su conclusión.
+
+Metodología en cascada:
+	(Definicion propia)
+	Es una metodologia, que se organiza por periodos largos de tiempo para traer un proyecto grande, pero este es tardado y solo tiene un fin.
+	(Definicion formal)
+	La metodología en cascada es un enfoque de la gestión de proyectos que sigue un proceso lineal y secuencial. Este enfoque es popular en ingeniería de software y se 
+	denomina ciclo de vida de desarrollo de software (SDLC). Sin embargo, el desarrollo de productos también está utilizando este modelo.
+
+Metodologías ágiles:
+	(Definicion propia)
+	Es otra metodologia, en la cual se busca tener varias metas a corto plazo, para poder ir desarrollando y actualizando segun la actualidad.
+	(Definicion formal)
+	La metodología ágil es un conjunto de técnicas aplicadas en ciclos de trabajo cortos, con el objetivo de que el proceso de entrega de un proyecto sea más eficiente. 
+	Así, con cada etapa completada, ya se pueden entregar avances y se deja de lado la necesidad de esperar hasta el término del proyecto.
+
+Iteración:
+	(Definicion propia)
+	Es un proceso que se repite varias veces.
+	(Definicion formal)
+	La iteración es el proceso coordinado de repetir una serie de pasos o tareas con el objetivo de mejorar un producto, servicio o proyecto a lo largo del tiempo. 
+	En este caso, la repetición de un programa informático para corregir errores y perfeccionar cada uno de sus elementos.
+
+
+
+	https://platzi.com/tutoriales/1557-git-github/6935-git-cheat-sheet-comandos-mas-usados/
+	https://learn.microsoft.com/es-es/devops/develop/git/what-is-git
+	https://www.atlassian.com/es/git/tutorials/using-branches/git-checkout#:~:text=El%20comando%20git%20branch%20permite,para%20cambiar%20a%20esa%20rama.
+	https://www.atlassian.com/es/git/tutorials/using-branches/git-checkout#:~:text=El%20comando%20git%20checkout%20te,confirmaciones%20nuevas%20en%20dicha%20rama.
+	https://git-scm.com/book/es/v2/Apéndice-C%3A-Comandos-de-Git-Compartir-y-Actualizar-Proyectos#:~:text=El%20comando%20git%20remote%20es,las%20URL%20todo%20el%20tiempo.	
+	https://www.atlassian.com/es/git/tutorials/setting-up-a-repository/git-clone#:~:text=git%20clone%20es%20una%20utilidad,uso%20comunes%20de%20git%20clone%20.
+	https://git-scm.com/book/es/v2/Apéndice-C%3A-Comandos-de-Git-Ramificar-y-Fusionar#:~:text=La%20herramienta%20git%20merge%20se,en%20Procedimientos%20Básicos%20de%20Ramificación.
+	https://git-scm.com/book/es/v2/GitHub-Participando-en-Proyectos#:~:text=Bifurcación%20(fork)%20de%20proyectos&text=Tal%20vez%2C%20para%20crear%20un,una%20manera%20abierta%20de%20participación.
+	
